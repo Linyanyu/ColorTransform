@@ -1,0 +1,24 @@
+{
+  "name": "colortransform",
+  "version": "1.0.0",
+  "description": "replace color and generate a new css file",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linyanyu/ColorTransform.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "js",
+    "css"
+  ],
+  "author": "leon_lin <linyanyu1994@gmail.com> (https://github.com/Linyanyu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Linyanyu/ColorTransform/issues"
+  },
+  "homepage": "https://github.com/Linyanyu/ColorTransform#readme"
+}
