@@ -1,6 +1,6 @@
 {
   "name": "colortransform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "replace color and generate a new css file",
   "main": "index.js",
   "scripts": {
